@@ -2,6 +2,7 @@
 
 Create a predictive DL model to predict the stock price of Tesla with following key
 points -
+
 ● Deep Learning Models:
 ○ Stock Price data is sequential in nature and as you know Recurrent
 Neural Networks have worked very well on Sequential Data. Hence,
